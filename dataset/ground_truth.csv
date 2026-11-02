@@ -1,0 +1,29 @@
+file,kondisi,kartu,rotasi_derajat,jarak_cm,keterangan
+rotasi/sudut_01.jpeg,rotasi,3_keriting,45,25,pantulan lampu di samping kartu
+rotasi/sudut_02.jpeg,rotasi,3_hati,90,25,pantulan lampu di samping kartu
+rotasi/sudut_03.jpeg,rotasi,3_wajik,45,25,pantulan lampu di samping kartu
+rotasi/sudut_04.jpeg,rotasi,7_wajik,90,25,pantulan lampu di samping kartu
+rotasi/sudut_05.jpeg,rotasi,7_sekop,45,25,pantulan lampu di samping kartu
+rotasi/sudut_06.jpeg,rotasi,10_sekop,90,25,pantulan lampu di samping kartu
+rotasi/sudut_07.jpeg,rotasi,10_keriting,45,25,pantulan lampu di samping kartu
+rotasi/sudut_08.jpeg,rotasi,7_wajik,45,25,pantulan lampu di samping kartu
+rotasi/sudut_09.jpeg,rotasi,10_wajik,45,25,pantulan lampu di samping kartu
+rotasi/sudut_10.jpeg,rotasi,3_sekop,45,25,pantulan lampu di samping kartu
+rotasi/sudut_11.jpeg,rotasi,7_keriting,90,25,pantulan lampu di samping kartu
+rotasi/sudut_12.jpeg,rotasi,10_hati,45,25,pantulan lampu di samping kartu
+skala/skala_01.jpeg,skala,7_wajik,0,40,kartu kecil di frame (jauh)
+skala/skala_02.jpeg,skala,10_keriting,0,40,kartu kecil di frame (jauh)
+skala/skala_03.jpeg,skala,3_sekop,0,40,kartu kecil di frame (jauh)
+cahaya/cahaya_01.jpeg,cahaya,10_hati,0,25,cahaya samping dengan bayangan
+cahaya/cahaya_02.jpeg,cahaya,10_keriting,0,25,cahaya samping dengan bayangan
+cahaya/cahaya_03.jpeg,cahaya,3_sekop,0,25,cahaya samping dengan bayangan; kartu sedikit miring
+cahaya/cahaya_04.jpeg,cahaya,7_wajik,0,25,cahaya samping dengan bayangan
+cahaya/cahaya_05.jpeg,cahaya,3_hati,0,25,cahaya samping dengan bayangan
+cahaya/cahaya_06.jpeg,cahaya,7_sekop,0,25,cahaya samping dengan bayangan; kartu sedikit miring
+sulit/sulit_01.jpeg,sulit,7_hati,0,25,latar bermotif batik
+sulit/sulit_02.jpeg,sulit,3_wajik,0,25,latar bermotif batik
+sulit/sulit_03.jpeg,sulit,10_wajik|3_keriting,NA,25,dua kartu; latar merah
+sulit/sulit_04.jpeg,sulit,10_wajik|3_sekop,NA,25,dua kartu; latar merah; kartu diputar
+sulit/sulit_05.jpeg,sulit,3_keriting,NA,25,latar bermotif batik; kartu diputar
+sulit/sulit_06.jpeg,sulit,7_keriting|3_hati,NA,25,dua kartu; latar merah; bayangan
+sulit/sulit_07.jpeg,sulit,7_sekop,0,25,latar sampul buku bergambar
